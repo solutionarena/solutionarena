@@ -1,2 +1,1 @@
-# solutionarena
-Introduction to Solution Arena
+# Introduction to Solution Arena
